@@ -1,0 +1,15 @@
+2025-01-28 16:04:54,987 - ERROR - An error occurred
+Traceback (most recent call last):
+  File "C:\Users\vaish\AppData\Local\Temp\ipykernel_3140\4155555334.py", line 15, in <cell line: 1>
+    Positiondd.append(i.find('a', class_ = 'jobListPosition').text)
+NameError: name 'Positiondd' is not defined
+2025-01-28 16:05:10,186 - ERROR - An error occurred
+Traceback (most recent call last):
+  File "C:\Users\vaish\AppData\Local\Temp\ipykernel_3140\4155555334.py", line 15, in <cell line: 1>
+    Positiondd.append(i.find('a', class_ = 'jobListPosition').text)
+NameError: name 'Positiondd' is not defined
+2025-01-28 16:05:39,877 - ERROR - An error occurred
+Traceback (most recent call last):
+  File "C:\Users\vaish\AppData\Local\Temp\ipykernel_3140\3241962591.py", line 7, in <cell line: 1>
+    company = soup.find_alefwefewrfl('div', class_ = 'jobListItem')
+TypeError: 'NoneType' object is not callable
